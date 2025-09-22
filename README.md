@@ -42,31 +42,31 @@ This project is a **tutorial-style Jupyter Notebook** demonstrating the use of *
 
 <!-- Plot 1 --> 
 <div align="center"> 
-    <img src="" alt="Plot 1" width="500" />
+    <img src="https://github.com/putty-shreyas/opencv_showcase/blob/main/results/1.none_20250917_122556.jpg" alt="Plot 1" width="500" />
     <p>No effect</p>
 </div>
 
 <!-- Plot 2 -->
 <div align="center">
-    <img src="" alt="Plot 2" width="500" />
+    <img src="https://github.com/putty-shreyas/opencv_showcase/blob/main/results/2.grayscale_20250917_122557.jpg" alt="Plot 2" width="500" />
     <p>Grayscale</p>
 </div>
 
 <!-- Plot 3 -->
 <div align="center">
-    <img src="" alt="Plot 3" width="500" />
+    <img src="https://github.com/putty-shreyas/opencv_showcase/blob/main/results/3.blur_20250917_122558.jpg" alt="Plot 3" width="500" />
     <p>Blur</p>
 </div>
 
 <!-- Plot 4 -->
 <div align="center">
-    <img src="" alt="Plot 4" width="500" />
+    <img src="https://github.com/putty-shreyas/opencv_showcase/blob/main/results/4.edges_20250917_122609.jpg" alt="Plot 4" width="500" />
     <p>Edges</p>
 </div>
 
 <!-- Plot 5 -->
 <div align="center">
-    <img src="" alt="Plot 5" width="500" />
+    <img src="https://github.com/putty-shreyas/opencv_showcase/blob/main/results/5.face_eye_20250917_122616.jpg" alt="Plot 5" width="500" />
     <p>Face eye</p>
 </div>
 
